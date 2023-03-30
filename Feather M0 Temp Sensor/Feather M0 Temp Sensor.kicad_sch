@@ -785,7 +785,7 @@
     (uuid a13aaac4-75bf-45e4-a42f-e0c4642f65e3)
     (property "Reference" "J1" (id 0) (at 76.2 100.33 90))
     (property "Value" "Feather_Long_Side" (id 1) (at 78.74 100.33 90))
-    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical" (id 2) (at 82.55 100.33 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x13_P2.54mm_Vertical" (id 2) (at 82.55 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 82.55 100.33 0)
@@ -837,7 +837,7 @@
 
   (symbol_instances
     (path "/a13aaac4-75bf-45e4-a42f-e0c4642f65e3"
-      (reference "J1") (unit 1) (value "Feather_Long_Side") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical")
+      (reference "J1") (unit 1) (value "Feather_Long_Side") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x13_P2.54mm_Vertical")
     )
     (path "/fabdb2e1-04b0-4ef0-a2ca-215d68d896f1"
       (reference "J2") (unit 1) (value "Feather_Short_Side") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x12_P2.54mm_Vertical")
